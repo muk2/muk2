@@ -13,9 +13,7 @@ I'm a software developer passionate about creating impactful projects and contri
   <!-- Animated Typing -->
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&
-  color=6AD3F7&center=true&vCenter=true&width=524&lines=Software+Developer;Financial+Tech+Enthusias
-  t;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Muk's+Github&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" >
     </a>
   </div>
 
