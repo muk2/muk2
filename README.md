@@ -3,21 +3,152 @@
 ### 🚀 About Me
 I'm a software developer passionate about creating impactful projects and contributing to open-source. With a background in financial tech and a drive to explore the frontiers of software engineering, I'm always looking to learn and grow.
 
-### 🔧 Languages, Frameworks, & Technologies
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-</p>
+  <!-- Animated Header -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11
+  ,20&height=180&section=header&text=Hey%20I'm%20Muk!&fontSize=42&fontColor=fff&animation=twinkling
+  &fontAlignY=32"/>
+  </div>
 
+  <!-- Animated Typing -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&
+  color=6AD3F7&center=true&vCenter=true&random=false&width=524&lines=Software+Developer+%F0%9F%92%B
+  B;Financial+Tech+Enthusiast+%F0%9F%93%88;Open+Source+Contributor+%E2%9C%A8;Always+Learning+New+Th
+  ings+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </div>
 
+  <br/>
+
+  <!-- Language Mascots -->
+  <div align="center">
+    <img src="https://rustacean.net/assets/rustacean-flat-gesture.png" width="120" alt="Ferris the
+  Crab"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://go.dev/images/gophers/ladder.svg" width="100" alt="Go Gopher"/>
+    &nbsp;&nbsp;&nbsp;
+    <img
+  src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/standing.svg"
+  width="80" alt="Gopher Hero"/>
+  </div>
+
+  <br/>
+
+  ## 🐍 Languages & Tools
+
+  <div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,go,python,cs,dotnet,java,cpp,swift,js,ts,react,do
+  cker,kubernetes,git&perline=7" />
+
+  </div>
+
+  <br/>
+
+  <!-- Snake Animation -->
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platan
+  e/snk/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+      <img alt="github-snake"
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </div>
+
+  <br/>
+
+  ## 📊 GitHub Stats
+
+  <div align="center">
+    <img width="49%" height="195px"
+  src="https://github-readme-stats.vercel.app/api?username=muk2&show_icons=true&count_private=true&
+  hide_border=true&title_color=6ad3f7&icon_color=6ad3f7&text_color=c9d1d9&bg_color=0d1117"
+  alt="Muk's GitHub Stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?user
+  name=muk2&layout=compact&hide_border=true&title_color=6ad3f7&text_color=c9d1d9&bg_color=0d1117"
+  />
+  </div>
+
+  <br/>
+
+  <!-- Streak Stats -->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muk2&theme=tokyonight_duo&hide
+  _border=true&stroke=0000&background=0D1117&ring=6ad3f7&fire=6ad3f7&currStreakLabel=6ad3f7"
+  alt="Streak Stats"/>
+  </div>
+
+  <br/>
+
+  ## 🏆 GitHub Trophies
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=muk2&theme=tokyonight&no-frame=tru
+  e&no-bg=true&margin-w=4&row=1" />
+  </div>
+
+  <br/>
+
+  ## 📈 Contribution Graph
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muk2&bg_color=0d1117&c
+  olor=6ad3f7&line=6ad3f7&point=ffffff&area=true&hide_border=true" />
+  </div>
+
+  <br/>
+
+  ## 🦀 Fun With Mascots
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="100"/><br/>
+          <b>Rust</b><br/>
+          <sub>🦀 Memory Safe</sub>
+        </td>
+        <td align="center">
+          <img src="https://go.dev/images/gophers/biplane.svg" width="120"/><br/>
+          <b>Go</b><br/>
+          <sub>⚡ Concurrent</sub>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/As
+  sets/Python.gif" width="80"/><br/>
+          <b>Python</b><br/>
+          <sub>🐍 Versatile</sub>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg"
+  width="80"/><br/>
+          <b>.NET</b><br/>
+          <sub>💜 Enterprise</sub>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <br/>
+
+  <!-- Profile Views Counter -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=muk2&label=Profile%20Views&color=6ad3f7&style=for
+  -the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/muk2?label=Followers&style=for-the-badge&colo
+  r=6ad3f7" alt="Followers" />
+  </div>
+
+  <br/>
+
+  <!-- Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,2
+  0&height=100&section=footer"/>
 
 <!--
 ####change here
