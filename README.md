@@ -59,15 +59,7 @@ I'm a software developer passionate about creating impactful projects and contri
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muk2&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6ad3f7&fire=6ad3f7&currStreakLabel=6ad3f7" alt="Streak Stats"/>
 </div>
 
-<br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muk2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
@@ -81,17 +73,17 @@ I'm a software developer passionate about creating impactful projects and contri
   <table>
     <tr>
       <td align="center">
-        <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="100"/><br/>
+        <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="120"/><br/>
         <b>Rust</b><br/>
         <sub>🦀 Memory Safe</sub>
       </td>
       <td align="center">
-        <img src="https://go.dev/images/gophers/biplane.svg" width="120"/><br/>
+        <img src="https://go.dev/images/gophers/biplane.svg" width="100"/><br/>
         <b>Go</b><br/>
         <sub>⚡ Concurrent</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/Assets/Python.gif" width="80"/><br/>
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="80"/><br/>
         <b>Python</b><br/>
         <sub>🐍 Versatile</sub>
       </td>
