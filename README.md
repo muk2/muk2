@@ -21,6 +21,8 @@ I'm a software developer passionate about creating impactful projects and contri
   &nbsp;&nbsp;&nbsp;
   <img src="https://go.dev/images/gophers/ladder.svg" width="100" alt="Go Gopher"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/ziglang/zig/master/doc/langref/ziglings.png" width="90" alt="Ziglings Lizard"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/standing.svg" width="80" alt="Gopher Hero"/>
 </div>
 
@@ -29,7 +31,7 @@ I'm a software developer passionate about creating impactful projects and contri
 ## 🐍 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,cs,dotnet,java,cpp,swift,js,ts,react,docker,kubernetes,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=rust,zig,go,python,fastapi,cs,dotnet,cpp,swift,ts,react,docker,kubernetes,git&perline=7" />
 </div>
 
 <br/>
