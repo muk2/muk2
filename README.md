@@ -9,7 +9,7 @@ I'm a software developer passionate about creating impactful projects and contri
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Muk's+Github&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" >
+    <img src="https://readme-typing-svg.demolab.com/?lines=Muk's+Github&font=Fira%20Code&width=220&height=50&duration=4000&pause=1000" >
   </a>
 </div>
 
@@ -21,7 +21,7 @@ I'm a software developer passionate about creating impactful projects and contri
   &nbsp;&nbsp;&nbsp;
   <img src="https://go.dev/images/gophers/ladder.svg" width="100" alt="Go Gopher"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ziglang/zig/master/doc/langref/ziglings.png" width="90" alt="Ziglings Lizard"/>
+  <img src="https://substackcdn.com/image/fetch/$s_!dYhd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22d5e7b6-c195-425f-b328-b9667727d038_1024x1024.png" width="90" alt="Ziglings Lizard"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/superhero/standing.svg" width="80" alt="Gopher Hero"/>
 </div>
@@ -78,6 +78,11 @@ I'm a software developer passionate about creating impactful projects and contri
         <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="120"/><br/>
         <b>Rust</b><br/>
         <sub>🦀 Memory Safe</sub>
+      </td>
+      <td align="center">
+      <img src="https://substackcdn.com/image/fetch/$s_!dYhd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22d5e7b6-c195-425f-b328-b9667727d038_1024x1024.png" width="80"/><br/>
+      <b>Zig</b><br/>
+      <sub>🦎 Explicit & Fast</sub>
       </td>
       <td align="center">
         <img src="https://go.dev/images/gophers/biplane.svg" width="100"/><br/>
